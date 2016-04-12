@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: f5deb208f40831441a77720836beacf6
+timeCreated: 1456738617
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: feets
+    100002: feets 1
+    100004: group2
+    100006: pasted__pasted__pCube4
+    100008: pasted__pCube4
+    100010: pasted__pCube5
+    100012: pasted__pCube5 1
+    100014: pCube4
+    100016: puff
+    100018: puff 1
+    100020: //RootNode
+    100022: subdToNurbsShape1
+    100024: subdToNurbsShape1_1
+    100026: subdToNurbsShape1_10
+    100028: subdToNurbsShape1_11
+    100030: subdToNurbsShape1_12
+    100032: subdToNurbsShape1_13
+    100034: subdToNurbsShape1_14
+    100036: subdToNurbsShape1_15
+    100038: subdToNurbsShape1_16
+    100040: subdToNurbsShape1_17
+    100042: subdToNurbsShape1_18
+    100044: subdToNurbsShape1_19
+    100046: subdToNurbsShape1_2
+    100048: subdToNurbsShape1_20
+    100050: subdToNurbsShape1_21
+    100052: subdToNurbsShape1_22
+    100054: subdToNurbsShape1_23
+    100056: subdToNurbsShape1_24
+    100058: subdToNurbsShape1_3
+    100060: subdToNurbsShape1_4
+    100062: subdToNurbsShape1_5
+    100064: subdToNurbsShape1_6
+    100066: subdToNurbsShape1_7
+    100068: subdToNurbsShape1_8
+    100070: subdToNurbsShape1_9
+    100072: transform1
+    100074: transform2
+    100076: transform3
+    100078: transform4
+    100080: nurbsToPoly1
+    100082: nurbsToPoly10
+    100084: nurbsToPoly11
+    100086: nurbsToPoly12
+    100088: nurbsToPoly13
+    100090: nurbsToPoly14
+    100092: nurbsToPoly15
+    100094: nurbsToPoly16
+    100096: nurbsToPoly17
+    100098: nurbsToPoly18
+    100100: nurbsToPoly19
+    100102: nurbsToPoly2
+    100104: nurbsToPoly20
+    100106: nurbsToPoly21
+    100108: nurbsToPoly22
+    100110: nurbsToPoly23
+    100112: nurbsToPoly24
+    100114: nurbsToPoly3
+    100116: nurbsToPoly4
+    100118: nurbsToPoly5
+    100120: nurbsToPoly6
+    100122: nurbsToPoly7
+    100124: nurbsToPoly8
+    100126: nurbsToPoly9
+    100128: puff1
+    100130: puff_group2_puffSmoothProxyGroup
+    400000: feets
+    400002: feets 1
+    400004: group2
+    400006: pasted__pasted__pCube4
+    400008: pasted__pCube4
+    400010: pasted__pCube5
+    400012: pasted__pCube5 1
+    400014: pCube4
+    400016: puff
+    400018: puff 1
+    400020: //RootNode
+    400022: subdToNurbsShape1
+    400024: subdToNurbsShape1_1
+    400026: subdToNurbsShape1_10
+    400028: subdToNurbsShape1_11
+    400030: subdToNurbsShape1_12
+    400032: subdToNurbsShape1_13
+    400034: subdToNurbsShape1_14
+    400036: subdToNurbsShape1_15
+    400038: subdToNurbsShape1_16
+    400040: subdToNurbsShape1_17
+    400042: subdToNurbsShape1_18
+    400044: subdToNurbsShape1_19
+    400046: subdToNurbsShape1_2
+    400048: subdToNurbsShape1_20
+    400050: subdToNurbsShape1_21
+    400052: subdToNurbsShape1_22
+    400054: subdToNurbsShape1_23
+    400056: subdToNurbsShape1_24
+    400058: subdToNurbsShape1_3
+    400060: subdToNurbsShape1_4
+    400062: subdToNurbsShape1_5
+    400064: subdToNurbsShape1_6
+    400066: subdToNurbsShape1_7
+    400068: subdToNurbsShape1_8
+    400070: subdToNurbsShape1_9
+    400072: transform1
+    400074: transform2
+    400076: transform3
+    400078: transform4
+    400080: nurbsToPoly1
+    400082: nurbsToPoly10
+    400084: nurbsToPoly11
+    400086: nurbsToPoly12
+    400088: nurbsToPoly13
+    400090: nurbsToPoly14
+    400092: nurbsToPoly15
+    400094: nurbsToPoly16
+    400096: nurbsToPoly17
+    400098: nurbsToPoly18
+    400100: nurbsToPoly19
+    400102: nurbsToPoly2
+    400104: nurbsToPoly20
+    400106: nurbsToPoly21
+    400108: nurbsToPoly22
+    400110: nurbsToPoly23
+    400112: nurbsToPoly24
+    400114: nurbsToPoly3
+    400116: nurbsToPoly4
+    400118: nurbsToPoly5
+    400120: nurbsToPoly6
+    400122: nurbsToPoly7
+    400124: nurbsToPoly8
+    400126: nurbsToPoly9
+    400128: puff1
+    400130: puff_group2_puffSmoothProxyGroup
+    2300000: pasted__pCube5
+    2300002: nurbsToPoly1
+    2300004: nurbsToPoly10
+    2300006: nurbsToPoly11
+    2300008: nurbsToPoly12
+    2300010: nurbsToPoly13
+    2300012: nurbsToPoly14
+    2300014: nurbsToPoly15
+    2300016: nurbsToPoly16
+    2300018: nurbsToPoly17
+    2300020: nurbsToPoly18
+    2300022: nurbsToPoly19
+    2300024: nurbsToPoly2
+    2300026: nurbsToPoly20
+    2300028: nurbsToPoly21
+    2300030: nurbsToPoly22
+    2300032: nurbsToPoly23
+    2300034: nurbsToPoly24
+    2300036: nurbsToPoly3
+    2300038: nurbsToPoly4
+    2300040: nurbsToPoly5
+    2300042: nurbsToPoly6
+    2300044: nurbsToPoly7
+    2300046: nurbsToPoly8
+    2300048: nurbsToPoly9
+    2300050: pasted__pasted__pCube4
+    2300052: pasted__pCube4
+    2300054: pCube4
+    2300056: puff 1
+    3300000: pasted__pCube5
+    3300002: nurbsToPoly1
+    3300004: nurbsToPoly10
+    3300006: nurbsToPoly11
+    3300008: nurbsToPoly12
+    3300010: nurbsToPoly13
+    3300012: nurbsToPoly14
+    3300014: nurbsToPoly15
+    3300016: nurbsToPoly16
+    3300018: nurbsToPoly17
+    3300020: nurbsToPoly18
+    3300022: nurbsToPoly19
+    3300024: nurbsToPoly2
+    3300026: nurbsToPoly20
+    3300028: nurbsToPoly21
+    3300030: nurbsToPoly22
+    3300032: nurbsToPoly23
+    3300034: nurbsToPoly24
+    3300036: nurbsToPoly3
+    3300038: nurbsToPoly4
+    3300040: nurbsToPoly5
+    3300042: nurbsToPoly6
+    3300044: nurbsToPoly7
+    3300046: nurbsToPoly8
+    3300048: nurbsToPoly9
+    3300050: pasted__pasted__pCube4
+    3300052: pasted__pCube4
+    3300054: pCube4
+    3300056: puff 1
+    4300000: pasted__pCube5
+    4300002: nurbsToPoly1
+    4300004: nurbsToPoly2
+    4300006: nurbsToPoly3
+    4300008: nurbsToPoly4
+    4300010: nurbsToPoly5
+    4300012: nurbsToPoly6
+    4300014: nurbsToPoly7
+    4300016: nurbsToPoly8
+    4300018: nurbsToPoly9
+    4300020: nurbsToPoly10
+    4300022: nurbsToPoly11
+    4300024: nurbsToPoly12
+    4300026: nurbsToPoly13
+    4300028: nurbsToPoly14
+    4300030: nurbsToPoly15
+    4300032: nurbsToPoly16
+    4300034: nurbsToPoly17
+    4300036: nurbsToPoly18
+    4300038: nurbsToPoly19
+    4300040: nurbsToPoly20
+    4300042: nurbsToPoly21
+    4300044: nurbsToPoly22
+    4300046: nurbsToPoly23
+    4300048: nurbsToPoly24
+    4300050: pasted__pasted__pCube4
+    4300052: pasted__pCube4
+    4300054: pCube4
+    4300056: puff
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
