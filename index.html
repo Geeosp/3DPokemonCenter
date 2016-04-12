@@ -6,6 +6,9 @@
     <title>3D Pokemon Center by Geeosp</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
+    <script src="TemplateData/UnityProgress.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="javascripts/respond.js"></script>
     <!--[if lt IE 9]>
@@ -30,6 +33,7 @@
     <div class="wrapper">
 
       <section>
+          
         <div id="title">
           <h1>3D Pokemon Center</h1>
           <p></p>
@@ -46,6 +50,27 @@ Is my version of a Pokemon Center in a forest. To do this project, I used the Au
 
 <p>© 2016 Pokémon. © 1995–2016 Nintendo/Creatures Inc./GAME FREAK inc. All Pokémon, Pokémon character names are trademarks of Nintendo. </p>
       </section>
+        <section>
+              <div class="">
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
+      <br>
+      <div class="logo"></div>
+      <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
+      <div class="title">PokemonCenterUnityProject</div>
+    </div>
+    <p class="footer">&laquo; created with <a href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;</p>
+    <script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 268435456,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    dataUrl: "Release/WebGlDemo.data",
+    codeUrl: "Release/WebGlDemo.js",
+    memUrl: "Release/WebGlDemo.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+        </section>
 
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
